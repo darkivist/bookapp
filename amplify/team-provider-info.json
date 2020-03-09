@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-bookapp-dev-105319-authRole",
+            "UnauthRoleArn": "arn:aws:iam::374783025989:role/amplify-bookapp-dev-105319-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::374783025989:role/amplify-bookapp-dev-105319-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-bookapp-dev-105319-deployment",
+            "UnauthRoleName": "amplify-bookapp-dev-105319-unauthRole",
+            "StackName": "amplify-bookapp-dev-105319",
+            "StackId": "arn:aws:cloudformation:us-east-2:374783025989:stack/amplify-bookapp-dev-105319/b80a00c0-6215-11ea-92a7-02d970724e3a",
+            "AmplifyAppId": "dqo536sezk8u0"
+        }
+    }
+}
